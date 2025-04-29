@@ -1,4 +1,4 @@
-# 📊📊 Dashboard de Análise das Despesas do Estado de Pernambuco (2022 - 2024)
+# 📊 Dashboard de Análise das Despesas do Estado de Pernambuco (2022 - 2024)
 
 ![Foto inicial](https://github.com/user-attachments/assets/20e689a0-1e41-4089-a944-892f8e7a091b)
 
